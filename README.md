@@ -29,3 +29,5 @@ connect hardware concepts back to AI systems.
 | [Day 01](Context/day01_latency_throughput_bandwidth.md) | Latency, throughput, and bandwidth |
 | [Day 02](Context/day02_memory_hierarchy_data_movement.md) | Memory hierarchy and data movement |
 | [Day 03](Context/day03_arithmetic_intensity.md) | Arithmetic intensity |
+| [Day 04](Context/day04_compute_bound_vs_memory_bound.md) | Compute-bound vs. memory-bound workloads |
+| [Day 05](Context/day05_roofline_model.md) | Roofline model |
