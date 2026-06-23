@@ -32,3 +32,4 @@ connect hardware concepts back to AI systems.
 | [Day 04](Context/day04_compute_bound_vs_memory_bound.md) | Compute-bound vs. memory-bound workloads |
 | [Day 05](Context/day05_roofline_model.md) | Roofline model |
 | [Day 06](Context/day06_cpu_pipeline.md) | CPU pipeline |
+| [Day 07](Context/day07_superscalar_ilp.md) | Superscalar execution and instruction-level parallelism |
