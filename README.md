@@ -34,3 +34,4 @@ connect hardware concepts back to AI systems.
 | [Day 06](Context/day06_cpu_pipeline.md) | CPU pipeline |
 | [Day 07](Context/day07_superscalar_ilp.md) | Superscalar execution and instruction-level parallelism |
 | [Day 08](Context/day08_out_of_order_execution.md) | Out-of-order execution |
+| [Day 09](Context/day09_register_renaming_rob.md) | Register renaming and reorder buffer |
