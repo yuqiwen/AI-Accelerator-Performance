@@ -35,3 +35,4 @@ connect hardware concepts back to AI systems.
 | [Day 07](Context/day07_superscalar_ilp.md) | Superscalar execution and instruction-level parallelism |
 | [Day 08](Context/day08_out_of_order_execution.md) | Out-of-order execution |
 | [Day 09](Context/day09_register_renaming_rob.md) | Register renaming and reorder buffer |
+| [Day 10](Context/day10_branch_prediction_speculation.md) | Branch prediction and speculation |
